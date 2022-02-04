@@ -68,3 +68,11 @@ how to create buttons and config text on buttons and also how to use lambda
 functions to send specific values to callback functions.
 In this way, we successfully made a Tic-Tac-Toe game python project. I hope 
 you enjoyed building the tic-tac-toe game project.
+
+SCREENSHOTS:
+
+![11](https://user-images.githubusercontent.com/93034609/152566267-00a24930-e466-49f6-b4b0-077e045b3d16.png)
+
+
+![22](https://user-images.githubusercontent.com/93034609/152566277-eb632e7a-fffc-40bb-a70e-5157b2b3e472.png)
+
